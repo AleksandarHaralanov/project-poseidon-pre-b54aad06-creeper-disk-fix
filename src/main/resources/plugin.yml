@@ -1,0 +1,5 @@
+main: me.beezle.pdiskfix.pDiskFix
+version: 1.0.0
+name: pDiskFix
+authors: [Beezle]
+description: Fixes creepers killed by skeletons not dropping music disks on Poseidon.
