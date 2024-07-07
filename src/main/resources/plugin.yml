@@ -1,5 +1,11 @@
-main: me.beezle.pdiskfix.pDiskFix
-version: 1.0.0
-name: pDiskFix
-authors: [Beezle]
-description: Fixes creepers killed by skeletons not dropping music disks on Poseidon.
+main: com.haralanov.poseidon_diskfix.PoseidonDiskFix
+version: 1.1.0
+name: PoseidonDiskFix
+author: Beezle
+website: github.com/AleksandarHaralanov/Poseidon-DiskFix
+description: Fixes creepers shot by skeletons not dropping music disks for servers running on Poseidon API.
+
+commands:
+  pdf:
+    description: See info about the PoseidonDiskFix plugin.
+    usage: /<command>
